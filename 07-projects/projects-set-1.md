@@ -168,7 +168,7 @@ window.addEventListener('keydown', (e) => {
   `;
 });
 ```
-## Project - 6 | ""
+## Project - 6 | "Unlimited Colors"
 ``` javascript
 //generate a random color
 
