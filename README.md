@@ -14,7 +14,7 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine.
    
-   git clone <https://github.com/js-](https://github.com/shivshikharsinha/js-tutorial>
+   git clone <https://github.com/shivshikharsinha/js-tutorial>
 
 2. Navigate to the specific tutorial section or code example you are interested in.
 
