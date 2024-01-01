@@ -36,7 +36,7 @@ If you'd like to contribute to this repository, please follow the guidelines out
 
 ## Credits
 
-- **Chai aur Code** - Subscribe to the [Chai aur Code YouTube Channel](https://www.youtube.com/chaiaurcode) for the full tutorial series.
+- **Chai aur Code** - Subscribe to the [Chai aur Code YouTube Channel](https://www.youtube.com/@chaiaurcode) for the full tutorial series.
 
 ## License
 
